@@ -1,0 +1,16 @@
+PODS:
+  - ZCAnimatedLabel (0.0.4)
+
+DEPENDENCIES:
+  - ZCAnimatedLabel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ZCAnimatedLabel
+
+SPEC CHECKSUMS:
+  ZCAnimatedLabel: 519b688bef4403fd356bc785f9b61cdfd8e6472d
+
+PODFILE CHECKSUM: f709ec612e3e4d29f6ffd40bc0382cbfe8de97ba
+
+COCOAPODS: 1.5.3
